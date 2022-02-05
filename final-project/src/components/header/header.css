@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Rajdhani&display=swap");
+
+#logo {
+  height: 90px;
+}
+
+#nav-item {
+  font-size: 20px;
+  font-family: "Rajdhani", sans-serif;
+}
+
+.nav-dropdown {
+  padding: 0 1rem;
+  font-size: 20px;
+  font-family: "Rajdhani", sans-serif;
+}

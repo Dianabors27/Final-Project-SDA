@@ -1,0 +1,296 @@
+{
+  "homeCards": [
+    {
+      "title": "Imobil Cluj",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "linkToProject": "/projects/imobil-cluj",
+      "image": "/assets/images/idei/first.jpg"
+    },
+    {
+      "title": "Amenajare apartament",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "linkToProject": "/projects/amenajare-apartament",
+      "image": "/assets/images/idei/first.jpg"
+    },
+    {
+      "title": "Locuinta Deva",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "linkToProject": "/projects/locuinta-deva",
+      "image": "/assets/images/idei/first.jpg"
+    },
+    {
+      "title": "Amenajare living",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "linkToProject": "/projects/amenajare-living",
+      "image": "/assets/images/idei/first.jpg"
+    },
+    {
+      "title": "Blocuri Sibiu",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "linkToProject": "/projects/blocuri-sibiu",
+      "image": "/assets/images/idei/first.jpg"
+    }
+  ],
+  
+  
+  "ImobilCluj": [
+    {
+      "fotoPath": "/assets/images/imobil-cluj/1.jpg",
+      "title": "slide1",
+      "description": "description1"
+    },
+    {
+      "fotoPath": "/assets/images/imobil-cluj/2.jpg",
+      "title": "slide2",
+      "description": "description2"
+    },
+    {
+      "fotoPath": "/assets/images/imobil-cluj/3.jpg",
+      "title": "slide3",
+      "description": "description3"
+    },
+    {
+      "fotoPath": "/assets/images/imobil-cluj/4.jpg",
+      "title": "slide4",
+      "description": "description4"
+    },
+    {
+      "fotoPath": "/assets/images/imobil-cluj/5.jpg",
+      "title": "slide5",
+      "description": "description5"
+    },
+    {
+      "fotoPath": "/assets/images/imobil-cluj/6.jpg",
+      "title": "slide6",
+      "description": "description6"
+    },
+    {
+      "fotoPath": "/assets/images/imobil-cluj/7.jpg",
+      "title": "slide7",
+      "description": "description7"
+    },
+    {
+      "fotoPath": "/assets/images/imobil-cluj/8.jpg",
+      "title": "slide8",
+      "description": "description8"
+    },
+    {
+      "fotoPath": "/assets/images/imobil-cluj//9.jpg",
+      "title": "slide9",
+      "description": "description9"
+    },
+    {
+      "fotoPath": "/assets/images/imobil-cluj/10.jpg",
+      "title": "slide10",
+      "description": "description10"
+    }
+  ],
+
+  "AmenajareApartament": [
+    {
+      "fotoPath": "/assets/images/amenajare-apartament/img1.jpg",
+      "title": "slide1",
+      "description": "description1"
+    },
+    {
+      "fotoPath": "/assets/images/amenajare-apartament/img2.jpg",
+      "title": "slide2",
+      "description": "description2"
+    },
+    {
+      "fotoPath": "/assets/images/amenajare-apartament/img3.jpg",
+      "title": "slide3",
+      "description": "description3"
+    },
+    {
+      "fotoPath": "/assets/images/amenajare-apartament/img4.jpg",
+      "title": "slide4",
+      "description": "description4"
+    },
+    {
+      "fotoPath": "/assets/images/amenajare-apartament/img5.jpg",
+      "title": "slide5",
+      "description": "description5"
+    },
+    {
+      "fotoPath": "/assets/images/amenajare-apartament/img6.jpg",
+      "title": "slide6",
+      "description": "description6"
+    },
+    {
+      "fotoPath": "/assets/images/amenajare-apartament/img7.jpg",
+      "title": "slide7",
+      "description": "description7"
+    },
+    {
+      "fotoPath": "/assets/images/amenajare-apartament/img8.jpg",
+      "title": "slide8",
+      "description": "description8"
+    },
+    {
+      "fotoPath": "/assets/images/amenajare-apartament/img9.jpg",
+      "title": "slide9",
+      "description": "description9"
+    },
+    {
+      "fotoPath": "/assets/images/amenajare-apartament/img10.jpg",
+      "title": "slide10",
+      "description": "description10"
+    },
+    {
+      "fotoPath": "/assets/images/amenajare-apartament/img11.jpg",
+      "title": "slide11",
+      "description": "description11"
+    },
+    {
+      "fotoPath": "/assets/images/amenajare-apartament/img12.jpg",
+      "title": "slide12",
+      "description": "description12"
+    },
+    {
+      "fotoPath": "/assets/images/amenajare-apartament/img13.jpg",
+      "title": "slide13",
+      "description": "description13"
+    }
+  ],
+
+  "LocuintaDeva": [
+    {
+      "fotoPath": "/assets/images/locuinta-deva/1.jpg",
+      "title": "slide1",
+      "description": "description1"
+    },
+    {
+      "fotoPath": "/assets/images/locuinta-deva/2.jpg",
+      "title": "slide2",
+      "description": "description2"
+    },
+    {
+      "fotoPath": "/assets/images/locuinta-deva/3.jpg",
+      "title": "slide3",
+      "description": "description3"
+    },
+    {
+      "fotoPath": "/assets/images/locuinta-deva/4.jpg",
+      "title": "slide4",
+      "description": "description4"
+    },
+    {
+      "fotoPath": "/assets/images/locuinta-deva/5.jpg",
+      "title": "slide5",
+      "description": "description5"
+    },
+    {
+      "fotoPath": "/assets/images/locuinta-deva/6.jpg",
+      "title": "slide6",
+      "description": "description6"
+    },
+    {
+      "fotoPath": "/assets/images/locuinta-deva/7.jpg",
+      "title": "slide7",
+      "description": "description7"
+    },
+    {
+      "fotoPath": "/assets/images/locuinta-deva/8.jpg",
+      "title": "slide8",
+      "description": "description8"
+    },
+    {
+      "fotoPath": "/assets/images/locuinta-deva/9.jpg",
+      "title": "slide9",
+      "description": "description9"
+    },
+    {
+      "fotoPath": "/assets/images/locuinta-deva/10.jpg",
+      "title": "slide10",
+      "description": "description10"
+    },
+    {
+      "fotoPath": "/assets/images/locuinta-deva/11.jpg",
+      "title": "slide11",
+      "description": "description11"
+    }
+  ],
+
+  "Amenajareliving": [
+    {
+      "fotoPath": "/assets/images/amenajare-living/1.jpg",
+      "title": "slide1",
+      "description": "description1"
+    },
+    {
+      "fotoPath": "/assets/images/amenajare-living/2.jpg",
+      "title": "slide2",
+      "description": "description2"
+    },
+    {
+      "fotoPath": "/assets/images/amenajare-living/3.jpg",
+      "title": "slide3",
+      "description": "description3"
+    },
+    {
+      "fotoPath": "/assets/images/amenajare-living/4.jpg",
+      "title": "slide4",
+      "description": "description4"
+    },
+    {
+      "fotoPath": "/assets/images/amenajare-living/5.jpg",
+      "title": "slide5",
+      "description": "description5"
+    },
+    {
+      "fotoPath": "/assets/images/amenajare-living/6.jpg",
+      "title": "slide6",
+      "description": "description6"
+    },
+    {
+      "fotoPath": "/assets/images/amenajare-living/7.jpg",
+      "title": "slide7",
+      "description": "description7"
+    }
+  ],
+
+  "BlocuriSibiu": [
+    {
+      "fotoPath": "/assets/images/blocuri-sibiu/1.jpg",
+      "title": "slide1",
+      "description": "description1"
+    },
+    {
+      "fotoPath": "/assets/images/blocuri-sibiu/2.jpg",
+      "title": "slide2",
+      "description": "description2"
+    },
+    {
+      "fotoPath": "/assets/images/blocuri-sibiu/3.jpg",
+      "title": "slide3",
+      "description": "description3"
+    },
+    {
+      "fotoPath": "/assets/images/blocuri-sibiu/4.jpg",
+      "title": "slide4",
+      "description": "description4"
+    },
+    {
+      "fotoPath": "/assets/images/blocuri-sibiu/5.jpg",
+      "title": "slide5",
+      "description": "description5"
+    },
+    {
+      "fotoPath": "/assets/images/blocuri-sibiu/6.jpg",
+      "title": "slide6",
+      "description": "description6"
+    },
+    {
+      "fotoPath": "/assets/images/blocuri-sibiu/7.jpg",
+      "title": "slide7",
+      "description": "description7"
+    },
+    {
+      "fotoPath": "/assets/images/blocuri-sibiu/8.jpg",
+      "title": "slide8",
+      "description": "description8"
+    }
+  ]
+
+}
