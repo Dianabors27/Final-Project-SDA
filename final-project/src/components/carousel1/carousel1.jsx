@@ -8,7 +8,7 @@ const CustomCarousel = (props) => {
       {props.carouselTitle.map((element) => (
         <div key={element.id}>
           <h1 className="text-center">{element.title}</h1>
-          <p className=" text-center ">{element.description}</p>
+          <p className="mx-auto w-75 text-center text">{element.description}</p>
         </div>
       ))}
 
