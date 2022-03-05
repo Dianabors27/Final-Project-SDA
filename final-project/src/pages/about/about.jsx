@@ -1,46 +1,43 @@
 import React from "react";
 import { Button } from "reactstrap";
 import { Link } from "react-router-dom";
+import image1 from "../../assets/images/1img.png";
+import image2 from "../../assets/images/ruben2.jpg";
+import "./about.css";
 
 const About = () => {
   return (
     <>
-      <div className="ui segment bg-dark text-light">
-        <img
-          className="ui centered medium image"
-          src="/assets/images/idei/about.jpg"
-        />
+      <div id="ui-segment" class="ui segment ">
+        <img class="ui large left rounded floated image" src={image1} />
         <p>
-          Te eum doming eirmod, nominati pertinacia argumentum ad his. Ex eam
-          alia facete scriptorem, est autem aliquip detraxit at. Usu ocurreret
-          referrentur at, cu epicurei appellantur vix. Cum ea laoreet recteque
-          electram, eos choro alterum definiebas in. Vim dolorum definiebas an.
-          Mei ex natum rebum iisque.
+          Numele meu este Ruben Soficaru si sunt student in anul VI la Facultatea de Arhitectura si Urbanism, Cluj.
+         
+        </p>
+        <img class="ui medium right rounded floated image" src={image2} />
+        <p>
+        Mi-a placut desenul dintotdeauna, fiind atras de reprezentarea mai tehnica și de reprezentarea perspectivă.
         </p>
         <p>
-          Audiam quaerendum eu sea, pro omittam definiebas ex. Te est latine
-          definitiones. Quot wisi nulla ex duo. Vis sint solet expetenda ne, his
-          te phaedrum referrentur consectetuer. Id vix fabulas oporteat, ei quo
-          vide phaedrum, vim vivendum maiestatis in.
+        Copil fiind, rareori ți se întâmplă să ai o percepție conștientă asupra arhitecturii sau asupra construcțiilor, în general. Le identifici prin funcțiuni, vezi culorile lor și îți plac sau nu detaliile, bazat doar pe emoții și trăiri personale. Recunoști locuri, simți textura, vezi dimensiunea și te minunezi de relația lor cu spațiul parcurs. 
         </p>
-        <img
-          className="ui small centered image"
-          src="/assets/images/idei/about.jpg"
-        />
         <p>
-          Eu quo homero blandit intellegebat. Incorrupte consequuntur mei id.
-          Mei ut facer dolores adolescens, no illum aperiri quo, usu odio brute
-          at. Qui te porro electram, ea dico facete utroque quo. Populo quodsi
-          te eam, wisi everti eos ex, eum elitr altera utamur at. Quodsi
-          convenire mnesarchum eu per, quas minimum postulant per id.
+        E important să cunoști spațiul construit, nu doar din exemple prezentate în reviste sau site-uri de arhitectură ci, mai ales, prin experiența personală. Este bine să găsești mereu exemple care să te facă să înveți și să continui ceea ce faci.
         </p>
-     
-          <Button color="light" className="d-flex text-align-center">
-   <Link to="/" style={{textDecoration:"none"}}> Home </Link>
-  </Button>
-  </div>
+        <p>
+        Am si alte pasiuni, cum ar fii calatoriile si plimbarile prin natura sau cataratul pe munti. De acolo de sus lumea se vede "cu alti ochi".
+        </p>
+        <p>
+       Pentru detalii sau colaborari, ma puteti contacta .......
+        </p>
+
+        <Button color="light" className="d-flex text-align-center">
+          <Link to="/" style={{ textDecoration: "none" }}>
+            Return Home{" "}
+          </Link>
+        </Button>
+      </div>
     </>
-    
   );
 };
 

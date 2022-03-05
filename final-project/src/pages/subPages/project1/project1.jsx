@@ -3,6 +3,7 @@ import CustomCarousel from "../../../components/carousel1/carousel1";
 
 const Project1 = () => {
   const [projectData, setProjectData] = useState([]);
+  const [projectTitle, setProjectTitle] = useState([]);
 
   useEffect(() => {
     fetch("http://localhost:3000/ImobilCluj")
@@ -16,9 +17,21 @@ const Project1 = () => {
       });
   }, []);
 
+  useEffect(() => {
+    fetch("http://localhost:3000/TitleProjectImobilCLuj")
+      .then((res) => {
+        res.json().then((data) => {
+          setProjectTitle(data);
+        });
+      })
+      .catch((err) => {
+        console.log(err);
+      });
+  }, []);
+
   return (
     <>
-      <CustomCarousel carouselData={projectData} />
+      <CustomCarousel carouselData={projectData} carouselTitle={projectTitle} />
     </>
   );
 };

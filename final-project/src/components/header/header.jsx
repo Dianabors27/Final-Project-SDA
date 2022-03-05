@@ -6,9 +6,12 @@ import "./header.css";
 const Header = () => {
   return (
     <Navbar id="navbar-header" expand="lg">
-      <Navbar.Brand href="#home" className="d-flex">
-        <img id="logo" alt="" src="/assets/images/architect.svg" />
-      </Navbar.Brand>
+      <Link to={"/"}>
+        {" "}
+        <Navbar.Brand className="d-flex">
+          <img id="logo" alt="" src="/assets/images/architect.svg" />
+        </Navbar.Brand>
+      </Link>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mx-auto">
@@ -21,7 +24,7 @@ const Header = () => {
           <NavDropdown
             title="Projects"
             id="basic-nav-dropdown"
-            className="nav-dropdown"
+            className="nav-dropdown mx-auto"
           >
             <NavDropdown.Item>
               {" "}

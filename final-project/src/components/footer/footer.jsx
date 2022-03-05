@@ -1,6 +1,8 @@
 import React from "react";
-import FacebookIcon from "@mui/icons-material/Facebook";
-import InstagramIcon from "@mui/icons-material/Instagram";
+// import FacebookIcon from "@mui/icons-material/Facebook";
+// import InstagramIcon from "@mui/icons-material/Instagram";
+import { FaFacebook} from "react-icons/fa";
+import { FaInstagram } from "react-icons/fa";
 import "./footer.css";
 
 const Footer = () => {
@@ -14,8 +16,20 @@ const Footer = () => {
         </div>
         {/* Footer Bottom*/}
         <div className="footer-bottom">
-          <FacebookIcon fontSize="large" />
-          <InstagramIcon fontSize="large" />
+          {/* <FacebookIcon fontSize="large" />
+          <InstagramIcon fontSize="large" /> */}
+          <ul className="d-flex justify-content-center">
+            <li>
+                  <a target="_blank" href="https://www.facebook.com/ruben.soficaru">
+                    <FaFacebook size={"40px"} color="#21252" />
+                  </a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.instagram.com/ruben_soficaru/">
+                    <FaInstagram size={"40px"} color="#8E2F5C" />
+                  </a>
+                </li>
+                </ul>
           <p className="text-xs-center">
             &copy;{new Date().getFullYear()} Architect App - All Rights Reserved
           </p>
@@ -26,3 +40,4 @@ const Footer = () => {
 };
 
 export default Footer;
+

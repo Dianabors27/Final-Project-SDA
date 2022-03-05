@@ -2,35 +2,36 @@
   "homeCards": [
     {
       "title": "Imobil Cluj",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "description": "Imobil luxos, spatios, amplasat la periferia Clujului.",
       "linkToProject": "/projects/imobil-cluj",
-      "image": "/assets/images/idei/first.jpg"
+      "image": "/assets/images/imobil-cluj/3.jpg"
     },
     {
       "title": "Amenajare apartament",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "description": "Apartament spatios, decorat cu gust de elemente de design.",
       "linkToProject": "/projects/amenajare-apartament",
-      "image": "/assets/images/idei/first.jpg"
+      "image": "/assets/images/amenajare-apartament/img2.jpg"
     },
     {
       "title": "Locuinta Deva",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "description": "Locuinta este amplasata in zona rezidentiala, loxoasa, perfecta pentru familii cu copii si animale de companie.",
       "linkToProject": "/projects/locuinta-deva",
-      "image": "/assets/images/idei/first.jpg"
+      "image": "/assets/images/locuinta-deva/9.jpg"
     },
     {
       "title": "Amenajare living",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "description": "Frumusetea unei amenajari nu sta doar in aplicarea corecta a regulilor de design. Felul cum este personalizata si accesorizata locuinta, acele detalii care individualizeaza casa, iata in ce consta farmecul unui camin.",
       "linkToProject": "/projects/amenajare-living",
-      "image": "/assets/images/idei/first.jpg"
+      "image": "/assets/images/amenajare-living/3.jpg"
     },
     {
       "title": "Blocuri Sibiu",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "description": "Blocuri Sibiu, proiect in desfasurare.",
       "linkToProject": "/projects/blocuri-sibiu",
-      "image": "/assets/images/idei/first.jpg"
+      "image": "/assets/images/blocuri-sibiu/8.jpg"
     }
   ],
+  
   
   
   "ImobilCluj": [
@@ -83,6 +84,13 @@
       "fotoPath": "/assets/images/imobil-cluj/10.jpg",
       "title": "slide10",
       "description": "description10"
+    }
+  ],
+
+  "TitleProjectImobilCLuj": [
+    { "id": 1,
+      "title": "Imobil Cluj",
+      "description": "O casă este făcută din pereți. Pereții sunt proiectați pentru a „conține” lucruri. Cumpărăm pereții și pereții „ne țin” gândurile, emoțiile. Creăm camere în interiorul pereților. Colorăm pereții cu visele noastre. Pe măsură ce zidurile se încorporează în personalitățile noastre - experiențele noastre, casa se transformă în „casa” noastră. Când decidem să vindem casa, o vedem în continuare ca „casa” noastră. Percepția noastră despre valoarea sa nu este doar cât am investit din fondurile noastre, ci cât din „noi înșine” am investit. Nu ne dăm seama că, în ochii cumpărătorului, vindem pur și simplu o „casă”, o casă pe care noul proprietar își va imprima propria personalitate - și ciclul continuă! Imobil luxos, spatios, amplasat la periferia Clujului. Ferestrele mari permit luminii naturale sa patrunda inauntru pe aproape toata durata zilei. Este decorat cu gust de elemente de desing, dispune de terasa spatioasa, de gradina elegant amenajata, doua garaje, incalzire centrala si dispune de tot confortul necesar."
     }
   ],
 
@@ -154,6 +162,13 @@
     }
   ],
 
+  "TitleProjectAmenajareApartament": [
+    { "id": 1,
+      "title": "Amenajare Apartament",
+      "description": "Apartament spatios, decorat cu gust de elemente de design. Despune de instalatie de iluminat, instalatie prize, banda LED, instalatie climatizare, incalzire centrala. Materialele folosite la decorare sunt: lavabil alb-pereti, parchet stejat Polar-pardoseala, lemn lamelar stejar 3x70cm, travertin 25x40cm-pereti si pardoseala baie, marmura alba-lavoar, ardezie-pereti dus. Ca obiecte de mobilier, gasim denumirea si lista preturilor in slide-urile de mai jos."
+    }
+  ],
+
   "LocuintaDeva": [
     {
       "fotoPath": "/assets/images/locuinta-deva/1.jpg",
@@ -212,6 +227,14 @@
     }
   ],
 
+  
+  "TitleProjectLocuintaDeva": [
+    { "id": 1,
+      "title": "Locuinta Deva",
+      "description": "Imobil amplasat in zona rezidentiala, loxos, decorat cu gust de obiecte de design, ferestre panoramice mari, vedere panoramica exceptionala, open space la parterul imobilului care cumprinde si o mini gradina interioara. Terasa etajata, curte spatioasa si atent ingrijita, perfecta pentru familii cu copii si animale de companie."
+    }
+  ],
+
   "Amenajareliving": [
     {
       "fotoPath": "/assets/images/amenajare-living/1.jpg",
@@ -247,6 +270,13 @@
       "fotoPath": "/assets/images/amenajare-living/7.jpg",
       "title": "slide7",
       "description": "description7"
+    }
+  ],
+
+  "TitleProjectAmenajareLiving": [
+    { "id": 1,
+      "title": "Amenajare Living",
+      "description": "Frumusetea unei amenajari nu sta doar in aplicarea corecta a regulilor de design. Felul cum este personalizata si accesorizata locuinta, acele detalii care individualizeaza casa, iata in ce consta farmecul unui camin. Livingul, prin deschiderea sa, este un spatiu cu functiuni complementare. De exemplu, zona bucatariei o include si pe cea a diningului, fiind o imbinare coerenta tinand cont de forma si dimensiunile spatiului. In acelasi timp, cele doua sunt separate vizual doar de o mica portiune de perete folosita ca spatiu pentru depozitare. La randul lui livingul include mai multe subfunctiuni cum ar fi zona de lectura, zona de conversatie sau zona de relaxare, incluzand aici televizorul cu sistemul audio adaptat nevoilor moderne de a recrea atmosfera de cinema."
     }
   ],
 
@@ -291,6 +321,14 @@
       "title": "slide8",
       "description": "description8"
     }
+  ],
+
+  "TitleProjectBlocuriSibiu": [
+    { "id": 1,
+      "title": "Blocuri Sibiu",
+      "description": "Casa unei persoane este la fel de mult o reflectare a personalității sale, precum hainele pe care le poartă, mâncarea pe care o mănâncă și prietenii cu care își petrece timpul. Toată lumea are în minte o „casă ideală” și o „casă ideală”. Cum îmi văd „casa ideală”, cum îmi văd viața acolo? Ei bine, cartierul de blocuri care este in continua desfasurare si care, in urmatorii ani va fi dat spre locuinta asta urmareste, sa implineasca nevoile si dorintele viitorilor proprietari dornici de mai bine."
+    }
   ]
+
 
 }
